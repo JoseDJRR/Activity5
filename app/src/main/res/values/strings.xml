@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">My Application</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="text"> Thanks for use this application, you can change de language of the application too the moment you want,
+    only go to settings and change the cellphone language</string>
+</resources>

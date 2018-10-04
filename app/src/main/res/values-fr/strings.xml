@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Mon Application</string>
+    <string name="hello_world">Bonjour le monde !</string>
+    <string name="text">Merci d’utiliser cette application, vous pouvez changer la langue de l’application au moment voulu
+    seulement aller aux paramètres et changer la langue du téléphone portable</string>
+</resources>
